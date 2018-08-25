@@ -13,7 +13,7 @@ It has these top-level messages:
 	ExtensionHandlerResponse
 	Wrapper
 */
-package openapiextension_v1
+package extensions
 
 import proto "github.com/golang/protobuf/proto"
 import fmt "fmt"
