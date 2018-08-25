@@ -69,7 +69,7 @@ It has these top-level messages:
 	VendorExtension
 	Xml
 */
-package openapi_v2
+package OpenAPIv2
 
 import proto "github.com/golang/protobuf/proto"
 import fmt "fmt"
